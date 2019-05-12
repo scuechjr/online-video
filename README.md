@@ -1,4 +1,6 @@
 ## 在线视频播放相关知识
+[m3u8在线播放器](https://www.m3u8play.com/)  
+[纯HLS(m3u8)跨平台技术(HLSPlayer,m3u8Player跨平台多终端)](http://www.52player.com/videoplayer/2014/121751.html)
 
 ### 1、文件切割命令
 ```
